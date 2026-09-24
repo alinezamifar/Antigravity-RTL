@@ -1,0 +1,26 @@
+# Python byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Runtime logs & backups
+watcher.log
+*.log
+*.bak
+*.tmp
+*.asar
+scratch/
+
+# IDE & OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+Desktop.ini
